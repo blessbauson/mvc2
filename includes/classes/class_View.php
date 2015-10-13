@@ -2,7 +2,7 @@
 
 class View{
 	
-	public $title = "MC2 - Marketing Results";
+	public $title = "Sample Site";
 	
 	private static $scripts 		= array();
 	private static $styles 			= array();
